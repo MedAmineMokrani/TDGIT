@@ -5,7 +5,7 @@
 ## USE CASES
 
 - USE CASE 1 : Customer place order ; check all his orders history details
-- USE CASE 2 : Delivery man can display orders with these states (All,Awaiting delivery, Delivered )
+- USE CASE 2 : Delivery man can display all orders with these states (Awaiting delivery, Delivered )
 also can update order state (status) from **Awaiting delivery** to **Delivered**.
 ## SERVICES
 
@@ -15,7 +15,7 @@ because user may use random 16 numbers to pass this step.
  * **MasterCard :** 5105105105105100
  * **Visa :** 	4012888888881881
 - 2. **Authentication :** This service is used to check if user login is correct or not.
-- 3. **MemoryRepository :** This service is used to save 
+- 3. **MemoryRepository :** This service is used to save, display data. 
 
 ## How to RUN
 
