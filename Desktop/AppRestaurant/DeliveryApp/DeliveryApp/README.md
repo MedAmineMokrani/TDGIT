@@ -7,6 +7,10 @@
 - USE CASE 1 : Customer place order ; check all his orders history details
 - USE CASE 2 : Delivery man can display all orders with these states (Awaiting delivery, Delivered )
 also can update order state (status) from **Awaiting delivery** to **Delivered**.
+## LOGIN
+
+- Customer login : username : customer | password : customerpass
+- delivery man login : username deliveryman | password : deliverymanpass
 ## SERVICES
 
 - 1. **CreditCardValidator :** This service is based on **Luhn algorithm**, using this **Algorithm** we can check and identify if the Credit Card numbers are valid or not.
